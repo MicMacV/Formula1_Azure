@@ -1,5 +1,9 @@
 # **Formula 1 - PySpark & Databricks**
 
+## Project files info
+Notebooks contain display commands that make notebook a bit unreadable, unfortunately due to end of free trial of Azure I couldn't optimize and re-run them again.
+
+
 ## Project objective
 Process received raw data with help of PySpark & Databricks through Azure's Data Factory and Delta Lake in order to present visualizations of most dominant team and driver <br /><br />
 
