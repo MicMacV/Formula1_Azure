@@ -28,6 +28,20 @@ Link : http://ergast.com/mrd/ <br /><br />
 <img src="https://i.gyazo.com/6bf04db4b8cca250b098b5bafe9302f5.png" width="800" height="400">
 <br/>
 
+
+## Results
+<br>
+<img src="https://i.gyazo.com/c4f90e1bbc8092321f854ba7b73eb9ec.png" width="800" height="400">
+<br />
+<br>
+<img src="https://i.gyazo.com/b258f45677af4d20aa3c7ce5e11182a4.png" width="800" height="400">
+<br />
+
+
+
+
+
+
 ## Technologies & tools
 + Python / PySpark
 + SQL
